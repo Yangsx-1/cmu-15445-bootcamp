@@ -44,4 +44,4 @@ int main() {
 
   std::cout << "Printing count: " << count << std::endl;
   return 0;
-}
+} // higher than lock_guard, done

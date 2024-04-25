@@ -57,7 +57,7 @@ namespace ABC {
       ABC::spam(a);
 
       // Try uncommenting this code, which calls spam(a), here.
-      // spam(a);
+      spam(a);
     }
   }
 
@@ -158,4 +158,4 @@ int main() {
   eggs(999);
 
   return 0;
-}
+} // done
